@@ -16,7 +16,7 @@ function Header(props){
 }
 
 Header.defaultProps={
-    text:'Feedback UI',
+    text:'xd UI',
     bgColor:'rgba(0,0,0,.4)',
     textColor:"#ff6a95"
 }
